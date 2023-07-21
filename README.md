@@ -35,7 +35,3 @@ Website ini memiliki beberapa bagian dan fitur:
 Jika Anda ingin menghubungi saya atau melihat lebih banyak proyek saya, Anda dapat mengunjungi profil GitHub saya di [https://github.com/eedijunaedii].
 
 Jika ada pertanyaan atau permintaan lebih lanjut, Anda juga dapat mengirim email ke [fufufuu3@gmail.com].
-
-## Disclaimer
-
-untuk bagian minat,penghargaan dan keahlian saya ada sedikit improvisasi dan itu tidak sepenuhnya saya jalani.
